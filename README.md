@@ -10,7 +10,7 @@
 
 ## 💻 Projeto
 
-igniteshoesapp
+mba-shoesapp
 
 ## 📝 Licença
 
