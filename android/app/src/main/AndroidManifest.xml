@@ -25,6 +25,8 @@
         <category android:name="android.intent.category.DEFAULT"/>
         <category android:name="android.intent.category.BROWSABLE"/>
         <data android:scheme="com.gumello.mbashoesapp"/>
+        <data android:scheme="exp+mba-shoesapp"/>
+        <data android:scheme="mba-shoesapp"/>
       </intent-filter>
     </activity>
   </application>
